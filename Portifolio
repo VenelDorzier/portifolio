@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ola, sou Venel Dorzier</title>
+    <nav>
+        <ul>
+    <li><a href="formulario1">projeto1</a></li>
+    <li><a href="exemplo2">projeto2 </a></li>
+    <li><a href="exemplo1">projeto3</a></li>
+    </nav>
+</head>
+<body>
+    <header>
+        <div>
+            <h1>Ola, sou Venel Dorzier</h1>
+            <img src="img/img.jpg" alt="img.jpg" width="300" height="350">
+        </div>
+
+        <div>
+    <p>Eu sou Venel Dorzier, sou Haitino , tenho 35 anos e moro em Sao Paulo.
+        Atualmente estou com 5 anos tabalhando a area de servicos gerais ,
+        Neste momento eu estou fazando curso de desenvolvimento web "FRONT-END" 
+        no meu pais dorigim eu fiz 2 ans de faculdade de engenharia civil,
+        e aqui no brasil eu ja trabalhei na area de construcao civil durante 3 anos e 7 meses como apropriador.
+        E tambem eu fiz o curso de informatica abasica.
+    </p>
+    </div>
+    </header>
+<div>
+        <footer>
+            <fieldset id="contatos">
+            <legend>Contatos:</legend>
+            <p>Email: veneljoseph91@gmail.com</p>
+            <p>Telefone: +5511958497394</p>
+            <P>Facebook: https://www.facebook.com/mimose.coeur</P>
+            </fieldset>
+            </footer>
+            </div> 
+            </body>
+            </html>
+
+    
+
